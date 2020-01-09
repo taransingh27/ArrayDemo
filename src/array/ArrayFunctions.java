@@ -31,7 +31,10 @@ public class ArrayFunctions {
      * @param index the index at which the value is to be inserted
      */
     public void insertValue(int[] array, int value, int index) {
-        array[index] = value;
+        array[index]=value;
+
+        }
+
     }
 
     /**
